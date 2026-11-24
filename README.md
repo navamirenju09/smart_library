@@ -151,3 +151,23 @@ Lovely Professional University
 ---
 
 ⭐ Built as part of my learning journey in software development.
+
+---
+
+---
+
+## 📸 Application Screenshots
+
+### 🏠 Welcome Screen
+![Smart Library Welcome Screen](screenshots/welcome.png)
+
+### 📚 Book Availability
+![Book Availability](screenshots/bookavailable.png)
+
+### 🔍 Book Not Found
+![Book Not Found](screenshots/booknotavailable.png)
+
+> Note: AI recommendations are temporarily disabled in this demonstration.
+
+---
+
